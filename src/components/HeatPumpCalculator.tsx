@@ -72,7 +72,7 @@ export const HeatPumpCalculator = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[#1E0B36] py-12 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-[#180048] py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
         <Card className="mb-8 animate-fade-in">
           <h1 className="text-2xl font-bold gradient-text text-center mb-8">
